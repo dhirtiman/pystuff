@@ -1,1 +1,1 @@
-pip install jupyter ipykernel
+pip install jupyter ipykernel reportlab matplotlib
